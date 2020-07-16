@@ -1,28 +1,31 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png" />
-    <HelloWorld msg="Welcome to Your Vue.js App" />
+    <Tree :root="root"></Tree>
   </div>
 </template>
 
 <script>
-import HelloWorld from "./components/HelloWorld.vue";
+import data from "./data.json";
+import Tree from "./components/Tree";
+import { TreeParser } from "./models/tree-parser";
 
 export default {
-  name: "App",
+  name: "app",
   components: {
-    HelloWorld
-  }
+    Tree,
+  },
+  data() {
+    const treeParser = new TreeParser();
+
+    return {
+      root: treeParser.parse(data),
+    };
+  },
 };
 </script>
 
-<style lang="scss">
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
+<style lang="scss" scoped>
+li {
+  list-style: none;
 }
 </style>
