@@ -6,7 +6,7 @@
       :checked="checked"
       v-on:change="onchange"
     />
-    <span> {{ node.value }}</span>
+    <span> {{ node.title || node.value }}</span>
     <span v-if="node.children && node.children.length" v-on:click="onclick">
       &#62;
     </span>

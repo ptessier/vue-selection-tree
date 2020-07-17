@@ -6,8 +6,10 @@
 
 <script>
 import data from "./data.json";
+import keywords from "./keywords.json";
 import Tree from "./components/Tree";
 import { TreeParser } from "./models/tree-parser";
+import { keywordTree } from "./utils/keywords-utils";
 
 export default {
   name: "app",
@@ -16,9 +18,10 @@ export default {
   },
   data() {
     const treeParser = new TreeParser();
+    const model = keywordTree(keywords);
 
     return {
-      root: treeParser.parse(data),
+      root: treeParser.parse(model),
     };
   },
 };

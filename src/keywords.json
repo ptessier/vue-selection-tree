@@ -1,0 +1,776 @@
+[
+  {
+    "id": "a259b5ec-b8e8-4b36-9910-935d844d1ffc",
+    "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+    "language": "fr",
+    "name": "Technologies",
+    "keywords": [
+      {
+        "id": "44afdef7-4228-40a6-a0ea-0b64cde0f602",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "a259b5ec-b8e8-4b36-9910-935d844d1ffc",
+        "value": "amazon"
+      },
+      {
+        "id": "345e3d93-5829-4726-b7f2-e1f2dd50e640",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "a259b5ec-b8e8-4b36-9910-935d844d1ffc",
+        "value": "Angular.js"
+      },
+      {
+        "id": "c6b5ebbc-21a0-4d13-b745-655ab5b4bb2b",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "a259b5ec-b8e8-4b36-9910-935d844d1ffc",
+        "value": "Axure"
+      },
+      {
+        "id": "16431e27-0174-43ca-9bb9-3d6f40e02ad3",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "a259b5ec-b8e8-4b36-9910-935d844d1ffc",
+        "value": "CMS"
+      },
+      {
+        "id": "459566e8-a5d6-4313-bdfc-a7281d769992",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "a259b5ec-b8e8-4b36-9910-935d844d1ffc",
+        "value": "css"
+      },
+      {
+        "id": "e5a5d36f-b40c-41f9-870d-61b7bfb482af",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "a259b5ec-b8e8-4b36-9910-935d844d1ffc",
+        "value": "drupal"
+      },
+      {
+        "id": "af29d2d4-a5c3-4cc9-bbbf-ac85d0fb71e9",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "a259b5ec-b8e8-4b36-9910-935d844d1ffc",
+        "value": "![.]html"
+      },
+      {
+        "id": "9f16e7b3-dd75-44be-8e6e-9b1ccb7f5779",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "a259b5ec-b8e8-4b36-9910-935d844d1ffc",
+        "value": "javascript"
+      },
+      {
+        "id": "81b28f94-7de8-4002-a1fe-a5ca5b2dddc9",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "a259b5ec-b8e8-4b36-9910-935d844d1ffc",
+        "value": "js"
+      },
+      {
+        "id": "b36bb738-eea2-40eb-a484-f27629a16e53",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "a259b5ec-b8e8-4b36-9910-935d844d1ffc",
+        "value": "photoshop"
+      },
+      {
+        "id": "af3873b2-1a9e-450c-b732-1f0cbb81a61b",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "a259b5ec-b8e8-4b36-9910-935d844d1ffc",
+        "value": "![.]php"
+      },
+      {
+        "id": "d35297ad-5fba-4523-9e64-925ac526655c",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "a259b5ec-b8e8-4b36-9910-935d844d1ffc",
+        "value": "React"
+      },
+      {
+        "id": "7557e073-131e-403a-8139-875593fc74bb",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "a259b5ec-b8e8-4b36-9910-935d844d1ffc",
+        "value": "sketch"
+      },
+      {
+        "id": "6fc48750-de1f-4647-83ec-8dff571dfdf1",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "a259b5ec-b8e8-4b36-9910-935d844d1ffc",
+        "value": "symfony"
+      },
+      {
+        "id": "8974db62-5238-4c2d-8010-c09e07f4d348",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "a259b5ec-b8e8-4b36-9910-935d844d1ffc",
+        "value": "typo3"
+      },
+      {
+        "id": "80171579-eba1-4abe-99d7-4e1975d1a7f3",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "a259b5ec-b8e8-4b36-9910-935d844d1ffc",
+        "value": "typo 3"
+      },
+      {
+        "id": "18830463-ad57-44bd-a6e0-4605f2cce642",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "a259b5ec-b8e8-4b36-9910-935d844d1ffc",
+        "value": "Vue.js"
+      },
+      {
+        "id": "34150eba-38cc-413d-afad-78db793bfc22",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "a259b5ec-b8e8-4b36-9910-935d844d1ffc",
+        "value": "Wordpress"
+      },
+      {
+        "id": "6fa7939c-ff3c-4df3-9941-c948fad8c724",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "a259b5ec-b8e8-4b36-9910-935d844d1ffc",
+        "value": "WPengine"
+      }
+    ]
+  },
+  {
+    "id": "e2c4ad71-1993-4c46-8de4-2a0ada85040c",
+    "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+    "language": "fr",
+    "name": "Infonuagique",
+    "keywords": [
+      {
+        "id": "23ffc2c8-d6e2-4adb-b9b3-7840a089467f",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "e2c4ad71-1993-4c46-8de4-2a0ada85040c",
+        "value": "agile"
+      },
+      {
+        "id": "ffef47b0-b5b4-4034-b84b-a9636d945250",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "e2c4ad71-1993-4c46-8de4-2a0ada85040c",
+        "value": "amazon~*web"
+      },
+      {
+        "id": "a693c1da-f3a2-406c-9ba4-5c950de1c086",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "e2c4ad71-1993-4c46-8de4-2a0ada85040c",
+        "value": "architect~*infonuagique~"
+      },
+      {
+        "id": "9e12134c-fb70-4b27-9fa9-d83ec5346bd0",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "e2c4ad71-1993-4c46-8de4-2a0ada85040c",
+        "value": "architect~*microservice~"
+      },
+      {
+        "id": "cffa5367-8c1e-4ba4-bbbc-1380757766c0",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "e2c4ad71-1993-4c46-8de4-2a0ada85040c",
+        "value": "audit~*sécurité~*aws"
+      },
+      {
+        "id": "4b1ae7ad-28dd-419f-abe2-3a5444beb064",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "e2c4ad71-1993-4c46-8de4-2a0ada85040c",
+        "value": "aws"
+      },
+      {
+        "id": "2d54b2ac-49ee-4a27-b3b0-9383595f056c",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "e2c4ad71-1993-4c46-8de4-2a0ada85040c",
+        "value": "aws*audit~*sécurité"
+      },
+      {
+        "id": "9a3de489-f24d-46e1-a1a1-7259163fd5ed",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "e2c4ad71-1993-4c46-8de4-2a0ada85040c",
+        "value": "aws*plan~*support~"
+      },
+      {
+        "id": "f459b6dd-f441-467a-90fc-1e7bb0632e38",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "e2c4ad71-1993-4c46-8de4-2a0ada85040c",
+        "value": "azure"
+      },
+      {
+        "id": "e9f5a3fe-6aae-48ad-b522-0de9c75c794d",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "e2c4ad71-1993-4c46-8de4-2a0ada85040c",
+        "value": "code~*qualité"
+      },
+      {
+        "id": "1c4d8069-0ed5-4ab9-946c-f890c6185045",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "e2c4ad71-1993-4c46-8de4-2a0ada85040c",
+        "value": "développement~*agile"
+      },
+      {
+        "id": "1f5f9b32-0a2a-42be-9bc5-220b5c41824f",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "e2c4ad71-1993-4c46-8de4-2a0ada85040c",
+        "value": "développement~*logiciel~"
+      },
+      {
+        "id": "842feed9-5a2a-4842-92ca-6a5dafdff990",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "e2c4ad71-1993-4c46-8de4-2a0ada85040c",
+        "value": "devops"
+      },
+      {
+        "id": "55d5959a-d3bb-46d3-9a70-53094d9e0d62",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "e2c4ad71-1993-4c46-8de4-2a0ada85040c",
+        "value": "hébergement~*informatique~"
+      },
+      {
+        "id": "67225793-b386-42dd-b8c8-b38f388898b7",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "e2c4ad71-1993-4c46-8de4-2a0ada85040c",
+        "value": "hébergement~*serveur~"
+      },
+      {
+        "id": "6f501bf1-d097-4c6f-8f12-6a81ad171bc3",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "e2c4ad71-1993-4c46-8de4-2a0ada85040c",
+        "value": "hébergement~*support~"
+      },
+      {
+        "id": "1918a748-211a-4ddc-a9eb-db8dcd7e4276",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "e2c4ad71-1993-4c46-8de4-2a0ada85040c",
+        "value": "hébergement~*web~"
+      },
+      {
+        "id": "9575080e-18cc-4d9b-beec-4fc90aa2e928",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "e2c4ad71-1993-4c46-8de4-2a0ada85040c",
+        "value": "infonuagique~"
+      },
+      {
+        "id": "2bb41419-7f61-49ab-8cb5-e909cd8f2f25",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "e2c4ad71-1993-4c46-8de4-2a0ada85040c",
+        "value": "informatique~*hébergement~"
+      },
+      {
+        "id": "7f6133e5-6ffc-49b1-b28a-a3c5e7c38cc4",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "e2c4ad71-1993-4c46-8de4-2a0ada85040c",
+        "value": "microsoft*azure"
+      },
+      {
+        "id": "fb12ba80-b97e-476a-9449-bc3b02ea7031",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "e2c4ad71-1993-4c46-8de4-2a0ada85040c",
+        "value": "plan~*support~*aws"
+      },
+      {
+        "id": "13e5f3c6-6afb-4aa7-85e5-36df3ce1edca",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "e2c4ad71-1993-4c46-8de4-2a0ada85040c",
+        "value": "Programmation~*front-end"
+      },
+      {
+        "id": "948e7d98-803d-471c-80be-af5980130a36",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "e2c4ad71-1993-4c46-8de4-2a0ada85040c",
+        "value": "Programmation~*logiciel~"
+      },
+      {
+        "id": "a05830bc-e20d-402e-bfe1-c8454cd726e6",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "e2c4ad71-1993-4c46-8de4-2a0ada85040c",
+        "value": "Programmation~*technologie"
+      },
+      {
+        "id": "06e2c65e-49a8-457e-8626-3c1951f1fafa",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "e2c4ad71-1993-4c46-8de4-2a0ada85040c",
+        "value": "Programmation~*web"
+      },
+      {
+        "id": "4d5563c1-c4f5-47ab-b208-9f52b3085803",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "e2c4ad71-1993-4c46-8de4-2a0ada85040c",
+        "value": "serveur~*hébergement~"
+      },
+      {
+        "id": "258542f2-0156-4ed2-aae0-612b272fb367",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "e2c4ad71-1993-4c46-8de4-2a0ada85040c",
+        "value": "site~*web~*informationnel~"
+      },
+      {
+        "id": "a14d3735-3d66-40db-b8ba-93ffbbe366c7",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "e2c4ad71-1993-4c46-8de4-2a0ada85040c",
+        "value": "solution~*infonuagique~"
+      },
+      {
+        "id": "20fab990-a45a-4cc9-9de3-8cef56cb01c5",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "e2c4ad71-1993-4c46-8de4-2a0ada85040c",
+        "value": "support~*hébergement~"
+      },
+      {
+        "id": "ca3b5863-12eb-4492-adc2-c7d218781d58",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "e2c4ad71-1993-4c46-8de4-2a0ada85040c",
+        "value": "web~*hébergement~"
+      }
+    ]
+  },
+  {
+    "id": "225a889b-8799-4230-a741-8d34f29e0e9b",
+    "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+    "language": "en",
+    "name": "Cloud",
+    "keywords": [
+      {
+        "id": "114d0574-ee0f-4a57-90fb-8b3703d62031",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "225a889b-8799-4230-a741-8d34f29e0e9b",
+        "value": "agile~*software~*development"
+      },
+      {
+        "id": "7e08adc6-6169-4c4b-b372-055f82c794b7",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "225a889b-8799-4230-a741-8d34f29e0e9b",
+        "value": "agility"
+      },
+      {
+        "id": "d5a797d1-85c5-4942-acc1-9a06892fe4e2",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "225a889b-8799-4230-a741-8d34f29e0e9b",
+        "value": "amazon~*web"
+      },
+      {
+        "id": "09f51650-2116-4437-8bed-6ce0dc85460c",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "225a889b-8799-4230-a741-8d34f29e0e9b",
+        "value": "aws"
+      },
+      {
+        "id": "e5bc85a8-655d-4945-82a1-34dd5fd7876e",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "225a889b-8799-4230-a741-8d34f29e0e9b",
+        "value": "aws*security~*audit~"
+      },
+      {
+        "id": "7d8ce5f7-9daf-4905-90b3-672d4e2645d4",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "225a889b-8799-4230-a741-8d34f29e0e9b",
+        "value": "aws*support~*plan~"
+      },
+      {
+        "id": "db54c2d0-5e1f-4112-8bb1-bc8b4fb1e084",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "225a889b-8799-4230-a741-8d34f29e0e9b",
+        "value": "azure"
+      },
+      {
+        "id": "5c801ce7-0f25-4531-9d57-c736d928a4f4",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "225a889b-8799-4230-a741-8d34f29e0e9b",
+        "value": "cloud~"
+      },
+      {
+        "id": "7c170fc0-492e-40cb-94a9-94249ef1e2d3",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "225a889b-8799-4230-a741-8d34f29e0e9b",
+        "value": "cloud~*architect~"
+      },
+      {
+        "id": "f1d5ba43-9e5d-47bb-8a21-d5e01f0bf978",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "225a889b-8799-4230-a741-8d34f29e0e9b",
+        "value": "cloud~*solution~"
+      },
+      {
+        "id": "cca80fc9-3b2a-406e-8e7e-eacf96da4ba8",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "225a889b-8799-4230-a741-8d34f29e0e9b",
+        "value": "code~*quality"
+      },
+      {
+        "id": "f44181a0-f9df-4b4f-b6e0-0288b2ffa8a9",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "225a889b-8799-4230-a741-8d34f29e0e9b",
+        "value": "computer~*programming"
+      },
+      {
+        "id": "eee12bf7-6084-42ff-8166-bf9984c43b87",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "225a889b-8799-4230-a741-8d34f29e0e9b",
+        "value": "devops"
+      },
+      {
+        "id": "91dfcccf-06a9-4891-9b69-cab742528645",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "225a889b-8799-4230-a741-8d34f29e0e9b",
+        "value": "hosting~*IT"
+      },
+      {
+        "id": "bc975df0-62da-4d50-8579-d820c62fbd52",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "225a889b-8799-4230-a741-8d34f29e0e9b",
+        "value": "hosting~*server~"
+      },
+      {
+        "id": "8d943659-97c3-4700-a27d-6bc578e69122",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "225a889b-8799-4230-a741-8d34f29e0e9b",
+        "value": "hosting~*support~"
+      },
+      {
+        "id": "8b181563-7122-44ed-98aa-7c2620b96273",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "225a889b-8799-4230-a741-8d34f29e0e9b",
+        "value": "hosting~*web~"
+      },
+      {
+        "id": "8f5dc8ac-5cf2-4358-93d3-a81043b07322",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "225a889b-8799-4230-a741-8d34f29e0e9b",
+        "value": "informational~*website~"
+      },
+      {
+        "id": "12a56615-8094-4c41-83a6-956f50ef9560",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "225a889b-8799-4230-a741-8d34f29e0e9b",
+        "value": "IT*hosting~"
+      },
+      {
+        "id": "9da27aff-e23a-4d1d-8441-9570aff24ef9",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "225a889b-8799-4230-a741-8d34f29e0e9b",
+        "value": "microsoft*azure"
+      },
+      {
+        "id": "890fd272-69d1-4f7a-9003-4ead2df17721",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "225a889b-8799-4230-a741-8d34f29e0e9b",
+        "value": "security~*audit~*aws"
+      },
+      {
+        "id": "09a0a864-5cf4-4a94-8ee5-8df90a75aed0",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "225a889b-8799-4230-a741-8d34f29e0e9b",
+        "value": "server~*hosting~"
+      },
+      {
+        "id": "9850be3c-7957-410f-b4c2-e4c51968f33f",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "225a889b-8799-4230-a741-8d34f29e0e9b",
+        "value": "software~*development"
+      },
+      {
+        "id": "60da24cb-42b2-4708-ace2-a18896ce8343",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "225a889b-8799-4230-a741-8d34f29e0e9b",
+        "value": "support~*hosting~"
+      },
+      {
+        "id": "ccf817b3-8130-4b7a-9f07-dd5c20dc41f7",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "225a889b-8799-4230-a741-8d34f29e0e9b",
+        "value": "support~*plan~*aws"
+      },
+      {
+        "id": "947b32d4-cc28-4d2f-9e0b-5fb005e94fb4",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "225a889b-8799-4230-a741-8d34f29e0e9b",
+        "value": "web~*hosting~"
+      }
+    ]
+  },
+  {
+    "id": "fe3d5b3c-47c2-4e72-9dce-18ed4c73e818",
+    "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+    "language": "fr",
+    "name": "Création de site web",
+    "keywords": [
+      {
+        "id": "e8b53726-a450-48c7-a37a-557f89361f56",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "fe3d5b3c-47c2-4e72-9dce-18ed4c73e818",
+        "value": "création~*site~*web"
+      },
+      {
+        "id": "a45b58d9-2447-4b6a-8164-acc0221e694e",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "fe3d5b3c-47c2-4e72-9dce-18ed4c73e818",
+        "value": "design~*expérience~*utilisateur~"
+      },
+      {
+        "id": "73f317b2-1910-4d1d-8f5b-80bec20aa3d2",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "fe3d5b3c-47c2-4e72-9dce-18ed4c73e818",
+        "value": "design~*interface~"
+      },
+      {
+        "id": "8165831d-1527-49a4-896a-511aa3a1709e",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "fe3d5b3c-47c2-4e72-9dce-18ed4c73e818",
+        "value": "ergonomie"
+      },
+      {
+        "id": "8de82c15-10c4-4340-a02b-ebf44097dab1",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "fe3d5b3c-47c2-4e72-9dce-18ed4c73e818",
+        "value": "experience~*utilisateur~"
+      },
+      {
+        "id": "fc3e3084-27e5-4345-859b-3d7d1f12f531",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "fe3d5b3c-47c2-4e72-9dce-18ed4c73e818",
+        "value": "gestion~*contenu~"
+      },
+      {
+        "id": "46df3e71-87b8-4307-a1d3-9ae46e534f1b",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "fe3d5b3c-47c2-4e72-9dce-18ed4c73e818",
+        "value": "maquette~"
+      },
+      {
+        "id": "49d9cd76-f917-4654-a9ef-bf27513d8f8c",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "fe3d5b3c-47c2-4e72-9dce-18ed4c73e818",
+        "value": "maquette~*fil~*fer"
+      },
+      {
+        "id": "07337e0c-660e-4986-a2bf-5b4d66f6544a",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "fe3d5b3c-47c2-4e72-9dce-18ed4c73e818",
+        "value": "parcours*utilisateur~"
+      },
+      {
+        "id": "a225745c-3218-4ba5-83bc-91aa53416d7d",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "fe3d5b3c-47c2-4e72-9dce-18ed4c73e818",
+        "value": "prototype~"
+      },
+      {
+        "id": "6363aaa7-935b-4715-9ecf-a697f4f25dbf",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "fe3d5b3c-47c2-4e72-9dce-18ed4c73e818",
+        "value": "refonte~*site~*web"
+      },
+      {
+        "id": "c1c780e4-78b4-43fd-be80-c5812a459baf",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "fe3d5b3c-47c2-4e72-9dce-18ed4c73e818",
+        "value": "refonte~*web"
+      },
+      {
+        "id": "77f7be3a-13cd-4c45-8431-0220eee5a134",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "fe3d5b3c-47c2-4e72-9dce-18ed4c73e818",
+        "value": "spécialiste~*ux"
+      },
+      {
+        "id": "82064d4d-acf4-47e2-97dd-f2b57f7198f4",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "fe3d5b3c-47c2-4e72-9dce-18ed4c73e818",
+        "value": "transformation~*numérique~"
+      }
+    ]
+  },
+  {
+    "id": "45e98563-2229-4558-bbd2-41fc43e260cd",
+    "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+    "language": "en",
+    "name": "Technologies",
+    "keywords": [
+      {
+        "id": "13183460-3412-47d3-a56b-6f39ce8e3d7a",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "45e98563-2229-4558-bbd2-41fc43e260cd",
+        "value": "amazon"
+      },
+      {
+        "id": "9cca0e71-4f02-4423-8dfb-66a45bc5f680",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "45e98563-2229-4558-bbd2-41fc43e260cd",
+        "value": "Angular.js"
+      },
+      {
+        "id": "47ca0ce5-f26c-45d7-9019-49ee82230e0e",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "45e98563-2229-4558-bbd2-41fc43e260cd",
+        "value": "Axure"
+      },
+      {
+        "id": "96972668-def9-4bff-937a-965fc0fa657c",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "45e98563-2229-4558-bbd2-41fc43e260cd",
+        "value": "CMS"
+      },
+      {
+        "id": "69fa0ee4-dc24-49a7-90e4-47d7da07c6ba",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "45e98563-2229-4558-bbd2-41fc43e260cd",
+        "value": "css"
+      },
+      {
+        "id": "2e5b9f91-fc28-4d80-8ee8-37feb8bfa5db",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "45e98563-2229-4558-bbd2-41fc43e260cd",
+        "value": "drupal"
+      },
+      {
+        "id": "b2e62117-3764-4f90-8df3-602c32616728",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "45e98563-2229-4558-bbd2-41fc43e260cd",
+        "value": "javascript"
+      },
+      {
+        "id": "59e67898-a974-4e17-bc84-386df7072011",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "45e98563-2229-4558-bbd2-41fc43e260cd",
+        "value": "js"
+      },
+      {
+        "id": "4e747887-7c23-4329-81e6-d15dbcd53e2e",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "45e98563-2229-4558-bbd2-41fc43e260cd",
+        "value": "photoshop"
+      },
+      {
+        "id": "c2c343d2-ecb3-4e2b-a964-b7240f755f9c",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "45e98563-2229-4558-bbd2-41fc43e260cd",
+        "value": "React"
+      },
+      {
+        "id": "88acac93-8e77-4238-a328-4f656156123d",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "45e98563-2229-4558-bbd2-41fc43e260cd",
+        "value": "sketch"
+      },
+      {
+        "id": "5a3f3675-f598-4baa-af14-f02d403a2180",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "45e98563-2229-4558-bbd2-41fc43e260cd",
+        "value": "symfony"
+      },
+      {
+        "id": "c39c4ee4-1ecd-4b8a-95a4-91e8a4beddc5",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "45e98563-2229-4558-bbd2-41fc43e260cd",
+        "value": "typo3"
+      },
+      {
+        "id": "b5e24cb7-c5ef-4f1a-a01f-a7d17699926c",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "45e98563-2229-4558-bbd2-41fc43e260cd",
+        "value": "typo 3"
+      },
+      {
+        "id": "d745dea2-2d89-4b7a-aac8-9874825da4a6",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "45e98563-2229-4558-bbd2-41fc43e260cd",
+        "value": "Vue.js"
+      },
+      {
+        "id": "bff66b44-8c81-46f8-9a8e-618ccb904ace",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "45e98563-2229-4558-bbd2-41fc43e260cd",
+        "value": "Wordpress"
+      },
+      {
+        "id": "1ae33366-8c6c-4e25-b047-3339f4256c86",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "45e98563-2229-4558-bbd2-41fc43e260cd",
+        "value": "WPengine"
+      }
+    ]
+  },
+  {
+    "id": "db30b3d2-6b86-456a-86dd-357790e7f35c",
+    "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+    "language": "en",
+    "name": "Website creation",
+    "keywords": [
+      {
+        "id": "79eb8586-1f60-4dbd-bbeb-6417b12b9b73",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "db30b3d2-6b86-456a-86dd-357790e7f35c",
+        "value": "content~*management~"
+      },
+      {
+        "id": "f055469f-ea6f-45bb-819f-bbac4e0c8c9e",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "db30b3d2-6b86-456a-86dd-357790e7f35c",
+        "value": "design~*sprint~"
+      },
+      {
+        "id": "4d35b011-5006-4c6b-9716-a597f9af5420",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "db30b3d2-6b86-456a-86dd-357790e7f35c",
+        "value": "design~*thinking~"
+      },
+      {
+        "id": "4c6b2600-f4d9-4a38-8f9b-402901622199",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "db30b3d2-6b86-456a-86dd-357790e7f35c",
+        "value": "digital*transformation~"
+      },
+      {
+        "id": "fe68b16e-8e94-41eb-b6bb-ea038a08b692",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "db30b3d2-6b86-456a-86dd-357790e7f35c",
+        "value": "interface~*design~"
+      },
+      {
+        "id": "e37ed9e0-4254-40cd-b69a-13f562a1adf1",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "db30b3d2-6b86-456a-86dd-357790e7f35c",
+        "value": "mockup~"
+      },
+      {
+        "id": "36647a9a-9d43-4d1d-b74f-49d9714cf161",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "db30b3d2-6b86-456a-86dd-357790e7f35c",
+        "value": "prototype~"
+      },
+      {
+        "id": "a73be540-14ec-44c9-9035-ce96ab38cb17",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "db30b3d2-6b86-456a-86dd-357790e7f35c",
+        "value": "user~*experience~"
+      },
+      {
+        "id": "18425498-7d90-452f-aede-01031b940238",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "db30b3d2-6b86-456a-86dd-357790e7f35c",
+        "value": "user~*experience~*design~"
+      },
+      {
+        "id": "f62a22cf-1052-4804-9cb8-0ca6ca5ebd0b",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "db30b3d2-6b86-456a-86dd-357790e7f35c",
+        "value": "user~*journey~"
+      },
+      {
+        "id": "21a8773c-72ba-45fb-a0a8-30f7353a1264",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "db30b3d2-6b86-456a-86dd-357790e7f35c",
+        "value": "ux*specialist~"
+      },
+      {
+        "id": "7c54211f-cc11-4606-90c9-5eceabba03fb",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "db30b3d2-6b86-456a-86dd-357790e7f35c",
+        "value": "web*redesign~"
+      },
+      {
+        "id": "5178dad1-aa1f-4a88-ab15-7715de67cc9a",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "db30b3d2-6b86-456a-86dd-357790e7f35c",
+        "value": "website~*creation~"
+      },
+      {
+        "id": "03bbb71a-4b0d-450e-b731-1bdc9c35a6b9",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "db30b3d2-6b86-456a-86dd-357790e7f35c",
+        "value": "website~*redesign~"
+      },
+      {
+        "id": "f4cae9ab-5710-4115-8270-2c4135518859",
+        "tenantId": "51ad8d59-180a-468e-a501-94aa8440f9dd",
+        "categoryId": "db30b3d2-6b86-456a-86dd-357790e7f35c",
+        "value": "wireframe~"
+      }
+    ]
+  }
+]
